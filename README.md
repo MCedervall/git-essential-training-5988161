@@ -28,7 +28,7 @@ Azure MVP and GitHub Star
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/barbara-forbes?u=104).
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+[1]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/git-essential-training-25677984
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQFtri24YywCRA/learning-public-crop_675_1200/B4DZaSCsxDGwAc-/0/1746206904098?e=2147483647&v=beta&t=kWaRJNyIgQ-qsLPNYMvXiqqQgEhud2WqEhf2m-L3f5M
